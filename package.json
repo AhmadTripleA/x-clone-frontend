@@ -1,0 +1,39 @@
+{
+  "name": "x-clone-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadTripleA/x-clone-frontend.git"
+  },
+  "keywords": [
+    "react",
+    "nextjs",
+    "x-clone"
+  ],
+  "author": "Ahmad Aktaa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmadTripleA/x-clone-frontend/issues"
+  },
+  "homepage": "https://github.com/AhmadTripleA/x-clone-frontend#readme",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "axios": "^1.10.0",
+    "next": "^15.4.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.15",
+    "@types/react": "^19.1.8",
+    "typescript": "^5.8.3"
+  }
+}
